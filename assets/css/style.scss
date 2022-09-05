@@ -29,9 +29,11 @@ background:#000000;
 position: absolute;
 top: 0;
 left: 50%;
+transform: translateX(-50%);
 width: 15px;
 height: 15px;
-background: red;
+background: black;
+border-radius: 50%;
 }
 
 ul.dashed {
